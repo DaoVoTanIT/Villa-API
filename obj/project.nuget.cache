@@ -1,12 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "LoGid6xFDMj+3R+n1eTXqAbeGyQ3ktdjD2Qam+7VQbsBNyArp5Pvd7ZepPNb1qe95E2YKX/zsmZOR2X0eXKOnQ==",
+  "dgSpecHash": "PeleHrQgUek+qL+Ouh7H+2oPYPe9QXbzE/xJFEMQ4+eUO8FLH9SEf43OjfQP+t8BR0rj/9ScsuUr+6gT8Omq+A==",
   "success": true,
   "projectFilePath": "/Users/techpro-mac/Downloads/Villa_API/MyApi.csproj",
   "expectedPackageFiles": [
+    "/Users/techpro-mac/.nuget/packages/microsoft.aspnetcore.jsonpatch/7.0.11/microsoft.aspnetcore.jsonpatch.7.0.11.nupkg.sha512",
+    "/Users/techpro-mac/.nuget/packages/microsoft.aspnetcore.mvc.newtonsoftjson/7.0.11/microsoft.aspnetcore.mvc.newtonsoftjson.7.0.11.nupkg.sha512",
     "/Users/techpro-mac/.nuget/packages/microsoft.aspnetcore.openapi/7.0.11/microsoft.aspnetcore.openapi.7.0.11.nupkg.sha512",
+    "/Users/techpro-mac/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/Users/techpro-mac/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "/Users/techpro-mac/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/techpro-mac/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/Users/techpro-mac/.nuget/packages/newtonsoft.json.bson/1.0.2/newtonsoft.json.bson.1.0.2.nupkg.sha512",
     "/Users/techpro-mac/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
     "/Users/techpro-mac/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
     "/Users/techpro-mac/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
