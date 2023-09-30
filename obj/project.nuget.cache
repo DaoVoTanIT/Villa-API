@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "D4o1ff0oZ5N1Dx9WBWTafRJOfQr7MbCfEFtDZQpukIs8LnlNXqPtLWUfz+XwD2E3xZVp1DqEEFVu6H0MGqgGrw==",
+  "dgSpecHash": "bIkMvpRxChtLXDb6e1WYckOCmsSP+1GsBc60fzB3mO44457CDFQx2PMFDruY4ZLKIM1lpQIkxs+bHFa7xPS+uA==",
   "success": true,
   "projectFilePath": "/Users/techpro-mac/Downloads/Villa_API/MyApi.csproj",
   "expectedPackageFiles": [
+    "/Users/techpro-mac/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
+    "/Users/techpro-mac/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.1/automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "/Users/techpro-mac/.nuget/packages/azure.core/1.25.0/azure.core.1.25.0.nupkg.sha512",
     "/Users/techpro-mac/.nuget/packages/azure.identity/1.7.0/azure.identity.1.7.0.nupkg.sha512",
     "/Users/techpro-mac/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
