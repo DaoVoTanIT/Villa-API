@@ -7,6 +7,7 @@ namespace Villa_API.Data
     {
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options) { }
         public DbSet<Villa> Villas { get; set; }
+        public DbSet<VillaNumber> VillasNumbers { get; set; }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<Villa>().HasData(new Villa
@@ -31,7 +32,7 @@ namespace Villa_API.Data
                    Rate = 300,
                    Sqft = 550,
                    Amenity = "",
-                CreatedDate = DateTime.Now
+                   CreatedDate = DateTime.Now
                },
                new Villa
                {
@@ -43,7 +44,7 @@ namespace Villa_API.Data
                    Rate = 400,
                    Sqft = 750,
                    Amenity = "",
-                CreatedDate = DateTime.Now
+                   CreatedDate = DateTime.Now
                },
                new Villa
                {
@@ -55,7 +56,7 @@ namespace Villa_API.Data
                    Rate = 550,
                    Sqft = 900,
                    Amenity = "",
-                CreatedDate = DateTime.Now
+                   CreatedDate = DateTime.Now
                },
                new Villa
                {
@@ -67,7 +68,7 @@ namespace Villa_API.Data
                    Rate = 600,
                    Sqft = 1100,
                    Amenity = "",
-                CreatedDate = DateTime.Now
+                   CreatedDate = DateTime.Now
                });
         }
     }
